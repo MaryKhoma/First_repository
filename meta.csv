@@ -1,0 +1,13 @@
+﻿column 1;column 2
+property;value
+title;Мебель для квартиры
+description;Набор включает в себя сведения о мебели, которую необходимо закупить для двух комнат квартиры: гостиной и спальни. Товары разделены на типы, для каждой мебели указаны цвет, количество, цена, общая стоимость и ссылка на источник. Все данные взяты из каталона ikea.com.
+creator;Хомутова Мария Владимировна
+publishname;Хомутова Мария Владимировна
+publishphone; +7 985 727-00-87
+publishemail;marusyakhomutova250@gmail.com
+hyperlink (URL) to the set;https://github.com/MaryKhoma/Laboratory_work/tree/main
+date of publication;18.10.2021
+format;"CSV (кодировка: «UTF-8», разделитель: «,»); xlsm"
+date of last modification;18.10.2021
+date when the dataset is up to date;18.10.2021

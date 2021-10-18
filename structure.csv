@@ -1,0 +1,8 @@
+﻿field name;russian description;format
+Room type;Название комнаты;string
+Furniture;Предмет мебели;string
+Color;Цвет предмета мебели;string
+Quantity;Количество предметов;integer
+Price for 1 piece;Цена за одну штуку или одну опаковку;float
+Total cost;Общая стоимость;float
+Source;Ссылка на источник информации;string
